@@ -27,7 +27,7 @@
     "xmlhttprequest": "rase-/node-XMLHttpRequest#a6b6f2",
     "component-emitter": "1.1.2",
     "indexof": "0.0.1",
-    "engine.io-parser": "https://github.com/livechat/engine.io-parser.git#bcbd075b357ec2b19ee1e9c693325ecfba0a036e",
+    "engine.io-parser": "https://github.com/livechat/engine.io-parser.git#lc3-fork",
     "debug": "1.0.4",
     "parseuri": "0.0.4",
     "parsejson": "0.0.1",
